@@ -1,4 +1,4 @@
-# matplotlib_5
+# The Power of Plots
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, i decided to join a fledgling ride sharing company of my own. In my latest capacity, i will be acting as Chief Data Strategist for the company. In this role, i will be expected to offer data-backed guidance on new opportunities for market differentiation.
 
 since  i been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
